@@ -1,0 +1,9 @@
+{
+  "name": "Copy of RadSafe Voice",
+  "description": "A zero-cost radiation detector for the Bihar groundwater crisis using phone camera sensors and Gemini Live voice/vision consultation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
